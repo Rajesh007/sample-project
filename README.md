@@ -1,1 +1,1 @@
-This repo is created to test git workflow.
+This repository was created to test git workflow.
